@@ -1,4 +1,4 @@
-# HIC (Harmful_ip_checker)
+# HIC (Harmful Ip Checker)
 
 <p>*This simple tool helps you to check the harmful links from Usom database.<br>
 *It's created with VS Code and used Tkinter for GUI<br>
